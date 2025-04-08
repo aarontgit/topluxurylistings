@@ -64,13 +64,13 @@ export default function App() {
         <section className="mt-12 text-center">
           <h3 className="text-lg font-medium mb-2">Prefer to chat?</h3>
           <p>
-            Text <strong>HOME</strong> to <strong>(555) 555-5555</strong>
+            Text <strong>HOME</strong> to <strong>(305) 979-1513</strong>
           </p>
         </section>
       </main>
 
       <footer className="mt-12 p-6 text-center text-sm text-gray-500">
-        &copy; {new Date().getFullYear()} Your Real Estate Brand. All rights reserved.
+        &copy; {new Date().getFullYear()} Top Luxury Real Estate Listings. All rights reserved.
       </footer>
     </div>
   );
